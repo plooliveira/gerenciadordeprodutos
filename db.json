@@ -21,14 +21,24 @@
       "id": 7
     },
     {
-      "produto": "Miojo",
-      "categoria": "2",
-      "id": 10
-    },
-    {
       "produto": "Amaciante",
       "categoria": "1",
       "id": 11
+    },
+    {
+      "produto": "Lego",
+      "categoria": "3",
+      "id": 12
+    },
+    {
+      "produto": "Bayblade",
+      "categoria": "3",
+      "id": 13
+    },
+    {
+      "produto": "Miojo",
+      "categoria": "2",
+      "id": 15
     }
   ],
   "categorias": [
@@ -55,6 +65,10 @@
     {
       "id": 8,
       "categoria": "Livros"
+    },
+    {
+      "categoria": "DVD'S",
+      "id": 9
     }
   ]
 }
