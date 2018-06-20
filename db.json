@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Alvejante",
+      "categoria": 1
+    },
+    {
+      "id": 5,
+      "produto": "Arroz",
+      "categoria": 2
+    },
+    {
+      "id": 6,
+      "produto": "Macarrâo",
+      "categoria": 2
+    },
+    {
+      "produto": "picanha",
+      "categoria": 2,
+      "id": 7
+    },
+    {
+      "produto": "Miojo",
+      "categoria": "2",
+      "id": 10
+    },
+    {
+      "produto": "Amaciante",
+      "categoria": "1",
+      "id": 11
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza "
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "categoria": "Brinquedos",
+      "id": 3
+    },
+    {
+      "categoria": "Games",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "categoria": "Informatica"
+    },
+    {
+      "id": 8,
+      "categoria": "Livros"
+    }
+  ]
+}

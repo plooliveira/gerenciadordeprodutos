@@ -1,0 +1,22 @@
+.cardProd{
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+
+    
+}
+
+.card{
+    margin-bottom: 5px;
+    padding: 5px;
+    position: relative;
+}
+
+
+
+.btn-style{
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top:0;
+}
